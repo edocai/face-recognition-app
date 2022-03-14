@@ -1,7 +1,7 @@
 ### Features
 
 ⚡️ Fully functional application using Clarifai API\
-⚡️ Node.js/Express.js\ 
+⚡️ Node.js/Express.js \ 
 ⚡️ Fully Responsive\
 ⚡️ PostgreSQL Database
 
