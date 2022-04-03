@@ -45,8 +45,8 @@ class Register extends React.Component {
     render() {
         const { onRouteChange } = this.props
         return (
-            <article className="br3 ba b--black-10 mv4 w-100 w-50-m w-25-l mw6 shadow-5 center">
-                <main className="pa4 black-80">
+            <article className="br4 ba b--black-10 mv4 w-100 w-50-m w-25-l mw6 shadow-5 center">
+                <main className="pa3 black-80">
                     <div className="measure">
                         <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
                             <legend className="f2 fw6 ph0 mh0">Sign Up</legend>
@@ -71,7 +71,7 @@ class Register extends React.Component {
                                 value="Sign Up" />
                         </div>
                         <div className="lh-copy mt3">
-                            <p onClick={() => onRouteChange('signin')} className="f5 pa2 link dim black db pointer">Sign In</p>
+                            <p onClick={() => onRouteChange('signin')} className="f5 pa1 link dim black db pointer">Sign In</p>
                         </div>
                     </div>
                 </main>
