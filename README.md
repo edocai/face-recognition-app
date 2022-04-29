@@ -1,8 +1,14 @@
-### Features
+#### A fully functional fullstack application that can detect multiple faces using the clarifai API
 
-⚡️ Fully functional application using Clarifai API\
+### Built with
+
+⚡️ HTML&CSS\
+⚡️ React.js\
 ⚡️ Node.js/Express.js\
-⚡️ Fully Responsive\
-⚡️ PostgreSQL Database
+⚡️ PostgreSQL 
+
+### Hosted/Deployed on
+
+⚡️ Heroku
 
 To view demo: [click here.](https://face-recog-application.herokuapp.com/)
