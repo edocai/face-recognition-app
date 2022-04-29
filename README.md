@@ -1,4 +1,4 @@
-#### A fully functional fullstack application that can detect multiple faces using the clarifai API
+## A fully functional fullstack web application that can detect multiple faces.
 
 ### Built with
 
