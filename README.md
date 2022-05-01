@@ -7,6 +7,18 @@
 ⚡️ Node.js/Express.js\
 ⚡️ PostgreSQL 
 
+### NPM Packages
+- Create-React-App
+- Tachyons
+- react-tilt
+- particles.js
+- Bcrypt
+- Postgresql
+- Knex
+- Body parser
+- Cors
+- Express
+
 ### Hosted/Deployed on
 
 ⚡️ Heroku
