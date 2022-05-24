@@ -1,13 +1,19 @@
 ## A fully functional fullstack web application that can detect multiple faces.
 
+<h2 align="center">
+  <img src="src/smartbrain.webp" alt="" width="600px" />
+  <br>
+</h2>
+
 ### Built with
 
 ⚡️ HTML&CSS\
 ⚡️ React.js\
 ⚡️ Node.js/Express.js\
-⚡️ PostgreSQL 
+⚡️ PostgreSQL
 
 ### NPM Packages
+
 - Create-React-App
 - Tachyons
 - react-tilt
